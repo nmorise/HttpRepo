@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1364" started-at="2018-09-04T01:02:52Z" finished-at="2018-09-04T01:02:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1364" started-at="2018-09-04T01:02:52Z" finished-at="2018-09-04T01:02:54Z">
+      <class name="com.qanvn.tests.GetAPITest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qanvn.tests.GetAPITest@6767c1fc]" name="setup" is-config="true" duration-ms="7" started-at="2018-09-04T01:02:52Z" finished-at="2018-09-04T01:02:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getAPITest()[pri:0, instance:com.qanvn.tests.GetAPITest@6767c1fc]" name="getAPITest" duration-ms="1322" started-at="2018-09-04T01:02:52Z" finished-at="2018-09-04T01:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAPITest -->
+      </class> <!-- com.qanvn.tests.GetAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
